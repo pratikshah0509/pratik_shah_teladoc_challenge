@@ -36,7 +36,7 @@ brew install maven
 - Clone the repository:
 
 ```$xslt
-git clone git@gitlab.com:Evisort/engineering/evisort-e2e.git
+git clone git@gitlab.com:https://github.com/pratikshah0509/pratik_shah_teladoc_challenge.git
 ```
 
 - Inside your project root, pull in the dependencies
