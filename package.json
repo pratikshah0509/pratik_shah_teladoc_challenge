@@ -95,7 +95,7 @@
     "semi": true,
     "singleQuote": true
   },
-  "repository": "https://gitlab.com/Evisort/engineering/evisort-e2e",
+  "repository": "https://github.com/pratikshah0509/pratik_shah_teladoc_challenge.git",
   "dependencies": {
     "json": "^11.0.0"
   }
